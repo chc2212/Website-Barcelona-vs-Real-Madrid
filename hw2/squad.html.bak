@@ -1,0 +1,53 @@
+<!-- 091895 조호철-->
+<html>
+ <head>
+  
+<!-- <meta http-equiv="content-type" content="text/html; charset=utf-8"> -->
+ 
+
+ <link rel="stylesheet" href="../style.css" type="text/css">	
+ </head>
+<!-- title 시작 -->
+  <title> FC 바르셀로나 - 제작자 : 조호철 -  </title>
+
+<!-- body 시작-->
+ <body link = "red">
+<table  border="1" align="center" width="776">
+<tr>
+<td colspan="10"><img src="http://media2.fcbarcelona.com/media/asset_publics/resources/000/003/274/original_rgb/FCB_ESCUT_5COPES.v1324401658.png"></td></tr>
+
+
+<tr align="center">
+<!--
+<td><a href="index.html">HOME</a></td>
+<td><a href="squad.html">Squad</a></td> 
+<td><a href="media.html">Media</a></td>
+-->
+</tr>
+
+<tr>
+<h6><b><td colspan="1" align="center">Squad</b></h6></td>
+<td colspan="3"align="center" >
+<table border="1" align="center" width="350">
+<tr><td width="100" align="center">&nbsp; </td><td width="200" align="center"> MG</td><td width="300" align="center"> 조셉 과르디올라</td></tr>
+<tr><td width="100" align="center">1</td><td width="200" align="center"> GK</td><td width="300" align="center"> 빅토르 발데스</td></tr>
+<tr><td width="100" align="center">2</td><td width="200" align="center"> DF</td><td width="300" align="center"> 다니엘 알베스</td></tr>
+<tr><td width="100" align="center">3</td><td width="200" align="center"> DF</td><td width="300" align="center"> 제라르드 피케</td></tr>
+<tr><td width="100" align="center">4</td><td width="200" align="center"> MF</td><td width="300" align="center"> 세스크 파브레가스</td></tr>
+<tr><td width="100" align="center">5</td><td width="200" align="center"> DF</td><td width="300" align="center"> 카를루스 푸욜</td></tr>
+<tr><td width="100" align="center">6</td><td width="200" align="center"> MF</td><td width="300" align="center"> 챠비 에르난데스</td></tr>
+<tr><td width="100" align="center">7</td><td width="200" align="center"> FW</td><td width="300" align="center"> 다비드 비야</td></tr>
+<tr><td width="100" align="center">8</td><td width="200" align="center"> MF</td><td width="300" align="center"> 안드레스 이니에스타</td></tr>
+<tr><td width="100" align="center">9</td><td width="200" align="center"> FW</td><td width="300" align="center"> 알렉시스 산체스</td></tr>
+<tr><td width="100" align="center">10</td><td width="200" align="center"> FW</td><td width="300" align="center"> 리오넬 메시</td></tr>
+<tr><td width="100" align="center">11</td><td width="200" align="center"> MF</td><td width="300" align="center"> 티아고 알칸트라</td></tr>
+<tr><td width="100" align="center">12</td><td width="200" align="center"> GK</td><td width="300" align="center"> 핀토</td></tr>
+
+</table>
+</td>
+</tr>
+
+</table>
+  
+ </body>
+</html>

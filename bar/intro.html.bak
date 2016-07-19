@@ -1,0 +1,50 @@
+<!-- 091895 조호철-->
+<html>
+ <head>
+  
+<!-- <meta http-equiv="content-type" content="text/html; charset=utf-8"> -->
+ 
+ <link rel="stylesheet" href="../style.css" type="text/css">	
+ </head>
+<!-- title 시작 -->
+  <title>Real Madrid C.F vs F.C Barcelona</title>
+
+<!-- body 시작-->
+ <body link = "red">
+<table  border="1" align="center" width="800">
+<tr>
+<td colspan="10"><img src="../img/bar_logo.png"></td></tr>
+
+
+<tr align="center">
+<!--
+<td><a href="index.html">HOME</a></td>
+<td><a href="squad.html">Squad</a></td> 
+<td><a href="media.html">Media</a></td>
+-->
+</tr>
+<tr>
+<h6><b><td colspan="1" align="center" width = "90">Intro</b></h6></td>
+<td colspan="3"align="center" >
+<table border="0" align="center" width="600">
+<br/>
+	<img src="../img/bar_intro.jpeg" align="center">
+	<br/>
+
+<p>스페인리그 1부인 프리메라디비전(Primera Division)에 소속된 프로축구클럽으로, 1899년 창단하였다. 연고지는 바르셀로나주 바르셀로나이다. 공식 클럽명은 F.C.바르셀로나이고, 팀의 애칭은 카탈로냐어로 진홍색과 푸른색이라는 뜻의 로스블라우그라나 또는 카탈로냐사람이라는 뜻의 카탈라네스이다. </p>
+
+<p>에스파냐 축구를 대표하는 전통의 명문클럽으로, 레알 마드리드와 함께 스페인리그에서 번갈아가며 우승을 차지하여 '스페인의 거함'이라고 불린다. 1950년대, 1960년대에 레알 마드리드와 함께 무적함대로 불리며 뛰어난 활약을 하였으며 1980년대에는 다소 저조하였다가 1990~1991년 시즌부터 4년 연속, 1997~1998년부터 2년 연속으로 우승하는 등 1990년대 이후 다시 전성기를 맞았다. </p>
+
+<p>스페인리그에서 16회 우승하여 레알 마드리드의 27회에 이어 2번째 최다우승기록을 보유하고 있고 준우승도 19회나 하였다. 그밖에 FA컵에서 20회 우승하였다. 스페인대표팀과 네덜란드 대표팀 선수 등 많은 유명선수들을 보유하고 있으며, 레알 마드리드와 경기를 벌일 때는 10만 여명의 관중이 모여들 정도로 인기가 아주 높다. </p>
+
+<p>1999~2000년 시즌에 19승 7무 12패로 데포르티보 라코루냐에 이어 2위를 차지하였다. 홈구장은 98000명 수용규모의 캄프누(Camp Nou)이다. </p> 
+
+
+</table>
+</td>
+</tr>
+
+</table>
+  
+ </body>
+</html>
